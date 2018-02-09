@@ -1,0 +1,7 @@
+*.ini
+*.iml
+.idea/*
+out/*
+src/*
+Collections/*
+
