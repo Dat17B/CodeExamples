@@ -15,8 +15,8 @@ Git Example
 -
 
 git clone https://github.com/Dat17B/CodeExamples.git
-<br>
-git pull origin
 
-Categories:
-Look in the branch list
+Branches
+-
+CodeFromBookCh16
+Collections
