@@ -11,7 +11,7 @@ If more code examples is created then i will update the repository with a new br
 
 Homepage and repository
 -
-git clone https://github.com/Dat17B/CodeExamples.git
+git clone https://github.com/Dat17B/CodeExamples.git <br />
 dat17b.github.io -> Github tutorial
 
 Branches
