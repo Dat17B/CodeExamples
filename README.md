@@ -16,7 +16,8 @@ dat17b.github.io -> Github tutorial
 
 Branches
 -
-master
-CodeFromBookCh16
-Collections
-GroceryList
+- master
+- CodeFromBookCh16
+- Collections
+- GroceryList
+- CollectionCreation
