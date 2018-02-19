@@ -1,3 +1,5 @@
+package Slides;
+
 public class RunASingleThread
 {
     public static void main(String[] args)
