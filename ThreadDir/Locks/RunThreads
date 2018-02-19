@@ -1,0 +1,28 @@
+package Locks;
+
+import org.w3c.dom.css.Counter;
+
+public class RunThreads
+{
+    public static void main(String[] args)
+    {
+        // Counter start at 1
+        Thread t1 = new CounterThread(10); // adds 10 to the counter 10 times
+        Thread t2 = new CounterThread(20); // adds 20       -||-
+        Thread t3 = new CounterThread(30); // adds 30       -||-
+        Thread t4 = new CounterThread(40); // adds 40       -||-
+        Thread t5 = new CounterThread(50); // adds 50       -||-
+        Thread t6 = new CounterThread(60); // adds 60       -||-
+
+        // 600 + 500 + 400 + 300 + 200 + 100 + 1 = 2101
+
+        System.out.println("Counter start at " + CounterThread.counter);
+
+        t1.start();
+        t2.start();
+        t3.start();
+        t4.start();
+        t5.start();
+        t6.start();
+    }
+}
