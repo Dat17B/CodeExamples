@@ -6,4 +6,6 @@ src/*
 Collections/*
 CodeFromTheBook/*
 CarList/*
-ThreadDir/*
+Exceptions/*
+ThreadDir/BeerGame/*
+ThreadDir/RunMe.java
