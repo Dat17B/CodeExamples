@@ -21,3 +21,5 @@ Branches
 - Collections
 - GroceryList
 - CollectionCreation
+- Exceptions
+- Threads
